@@ -27,12 +27,8 @@ datetime
 python -m venv venv
 
 2. Activate it
-# Windows:
-venv/Scripts/activate
-
-# macOS/Linux:
-source venv/bin/activate
-
+ Windows:venv/Scripts/activate
+macOS/Linux: source venv/bin/activate
 3. Install requirements
 pip install -r requirements.txt
 
