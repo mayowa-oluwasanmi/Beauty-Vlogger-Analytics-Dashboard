@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+.streamlit/config.toml
