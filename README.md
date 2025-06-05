@@ -2,7 +2,7 @@
 This Streamlit dashboard app uses mock Youtube channel data to display metrics and visualisations of a hypothetical content creator. The dashboard shows the real life tragectory of a beauty youtuber from the 2010s to the 2020s. It shows modest growth between 2010-2015, with a big spike in views and virality during 2016's Youtube beauty era. It also shows the slow plateau towards eventual decline of Beauty Youtube, especially from 2021-present due to TikTok.
 
 UI is built with **Streamlit**.
-<img src="images/dashboard.jpg" alt="Dashboard" width="600"/>
+<img src="images/dashboard.jpeg" alt="Dashboard" width="600"/>
 
 # Features
 Interactive date range selection
